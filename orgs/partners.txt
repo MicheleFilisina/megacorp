@@ -1,2 +1,3 @@
-Boot.dev
-TheStartuppartner list
+TheStartup
+
+partner list
